@@ -155,6 +155,7 @@ document.addEventListener("DOMContentLoaded", function () {
                   background: "#ef4444",
                 },
               }).showToast();
+                return;
 
         }
 
